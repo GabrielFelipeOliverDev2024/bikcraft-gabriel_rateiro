@@ -11,8 +11,11 @@
 /* ? Header - Estilo do cabeçalho e navegação */
 @import "./global/header.css";
 
+/* ? Componentes/ Utilitarios - Estilos de cores, fontes, estilos que podem ou serão carregados mais de uma vez */
+@import "./utilitarios/componentes.css";
+
 /* ? Home - Estilos da introdução do site */
 @import "./home/introducao.css";
 
-/* ? Componentes/ Utilitarios - Estilos de cores, fontes, estilos que podem ou serão carregados mais de uma vez */
-@import "./utilitarios/componentes.css";
+/* ? Home-bicletas-lista - Estilos da lista de bicicletas da pagina home */
+@import "./bicicletas/bicicletas-lista.css";
