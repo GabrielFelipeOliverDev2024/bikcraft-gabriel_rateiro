@@ -1,0 +1,38 @@
+/* ? Reset inicial */
+
+body {
+
+    padding-bottom: 600px;
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: var(--cor-11);
+    
+}
+
+img {
+
+    max-width: 100%;
+    display: block;
+
+}
+
+a {
+
+    text-decoration: none;
+    color: inherit;
+
+}
+
+ul {
+
+    padding: 0px;
+    list-style-type: none;
+
+}
+
+h1, ul, p {
+
+    margin: 0px;
+
+}
