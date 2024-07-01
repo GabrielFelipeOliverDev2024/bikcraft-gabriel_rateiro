@@ -19,3 +19,6 @@
 
 /* ? Home-bicletas-lista - Estilos da lista de bicicletas da pagina home */
 @import "./bicicletas/bicicletas-lista.css";
+
+/* ? Home-tecnologias - Estilos da tecnologias pagina home */
+@import "./home/tecnologias.css";
