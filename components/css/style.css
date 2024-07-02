@@ -22,3 +22,6 @@
 
 /* ? Home-tecnologias - Estilos da tecnologias pagina home */
 @import "./home/tecnologias.css";
+
+/* ? Home-parceiros - Estilos dos parceiros pagina home */
+@import "./home/parceiros.css";

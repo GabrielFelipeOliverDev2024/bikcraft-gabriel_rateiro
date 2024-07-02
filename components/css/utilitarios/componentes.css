@@ -70,3 +70,13 @@
 
 
 }
+
+@media screen and (max-width: 300px) {
+
+    .link {
+
+        font: 500 1.15rem/1.5 'Popppins', sans-serif;
+
+    }
+
+}
