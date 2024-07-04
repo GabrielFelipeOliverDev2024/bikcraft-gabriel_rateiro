@@ -28,3 +28,6 @@
 
 /* ? Home-depoimento - Estilos do depoimento pagina home */
 @import "./home/depoimento.css";
+
+/* ? Seguros-seguros - Estilos do seguros pagina home */
+@import "./seguros/seguros.css";
