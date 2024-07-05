@@ -31,3 +31,6 @@
 
 /* ? Seguros-seguros - Estilos do seguros pagina home */
 @import "./seguros/seguros.css";
+
+/* ? Seguros-seguros - Estilos do seguros pagina home */
+@import "./global/footer.css";
