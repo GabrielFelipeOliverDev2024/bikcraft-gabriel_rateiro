@@ -34,3 +34,6 @@
 
 /* ? Seguros-seguros - Estilos do seguros pagina home */
 @import "./global/footer.css";
+
+/* ? Termos-Termos - Estilos do termos pagina termos */
+@import "./termos/termos.css";
