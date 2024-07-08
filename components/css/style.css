@@ -38,5 +38,11 @@
 /* ? Termos-Termos - Estilos do termos pagina termos */
 @import "./termos/termos.css";
 
-/* ? bicicletas-bicicletas - Estilos do bicicletas pagina bicicletas */
+/* ? bicicletas-bicicletas - Estilos das bicicletas pagina bicicletas */
 @import "./bicicletas/bicicletas.css";
+
+/* ? Seguros-vantagens - Estilos do vantagens pagina seguros */
+@import "./seguros/vantagens.css";
+
+/* ? Seguros-perguntas - Estilos do perguntas pagina seguros */
+@import "./seguros/perguntas.css";
