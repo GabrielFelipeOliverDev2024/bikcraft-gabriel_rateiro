@@ -37,3 +37,6 @@
 
 /* ? Termos-Termos - Estilos do termos pagina termos */
 @import "./termos/termos.css";
+
+/* ? bicicletas-bicicletas - Estilos do bicicletas pagina bicicletas */
+@import "./bicicletas/bicicletas.css";

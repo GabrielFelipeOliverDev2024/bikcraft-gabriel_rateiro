@@ -45,6 +45,53 @@
 
 }
 
+.botao.seta {
+
+    display: flex;
+    align-items: center;
+
+}
+
+.botao.seta::after {
+
+    content: "";
+    display: inline-block;
+    width: 19px;
+    height: 10px;
+    margin-left: 12px;
+    background: url("../../../assets/icons/seta-btn-bicicletas.svg");
+
+}
+
+.botao.seta:hover::after {
+
+    animation: setaMove 1.2s ease-in infinite;
+
+}
+
+@keyframes setaMove {
+    
+    0% {
+
+        transform: translateX(1px) scale(1.1);
+
+    }
+
+    50% {
+
+        transform: translateX(0px) scale(1);
+
+    }
+
+    100% {
+
+        transform: translateX(4px) scale(1.2);
+    
+
+    }
+
+}
+
 .link {
 
     display: inline-block;
