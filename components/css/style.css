@@ -46,3 +46,6 @@
 
 /* ? Seguros-perguntas - Estilos do perguntas pagina seguros */
 @import "./seguros/perguntas.css";
+
+/* ? bicicleta-bicicleta - Estilos do bicicleta pagina bicicleta */
+@import "./bicicleta/bicicleta.css";
