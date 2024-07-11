@@ -49,3 +49,6 @@
 
 /* ? bicicleta-bicicleta - Estilos do bicicleta pagina bicicleta */
 @import "./bicicleta/bicicleta.css";
+
+/* ? seguro-seguro - Estilos do seguro pagina seguro */
+@import "./bicicleta/seguro.css";
