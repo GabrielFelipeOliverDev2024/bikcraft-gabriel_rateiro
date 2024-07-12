@@ -1,54 +1,39 @@
-
-/* ? Global - Estilos padrões também conhecidos como resets*/
 @import "./global/global.css";
-
-/* ? Componentes/ Tipografia - Estilos de cores, fontes, estilos que podem ou serão carregados mais de uma vez */
 @import "./utilitarios/tipografias.css";
-
-/* ? Componentes/ Tipografia - Estilos de cores, fontes, estilos que podem ou serão carregados mais de uma vez */
 @import "./utilitarios/cores.css";
 
-/* ? Header - Estilo do cabeçalho e navegação */
+
 @import "./global/header.css";
-
-/* ? Componentes/ Utilitarios - Estilos de cores, fontes, estilos que podem ou serão carregados mais de uma vez */
-@import "./utilitarios/componentes.css";
-
-/* ? Home - Estilos da introdução do site */
-@import "./home/introducao.css";
-
-/* ? Home-bicletas-lista - Estilos da lista de bicicletas da pagina home */
-@import "./bicicletas/bicicletas-lista.css";
-
-/* ? Home-tecnologias - Estilos da tecnologias pagina home */
-@import "./home/tecnologias.css";
-
-/* ? Home-parceiros - Estilos dos parceiros pagina home */
-@import "./home/parceiros.css";
-
-/* ? Home-depoimento - Estilos do depoimento pagina home */
-@import "./home/depoimento.css";
-
-/* ? Seguros-seguros - Estilos do seguros pagina home */
-@import "./seguros/seguros.css";
-
-/* ? Seguros-seguros - Estilos do seguros pagina home */
 @import "./global/footer.css";
 
-/* ? Termos-Termos - Estilos do termos pagina termos */
-@import "./termos/termos.css";
 
-/* ? bicicletas-bicicletas - Estilos das bicicletas pagina bicicletas */
+/* ? Utilidades */
+@import "./utilitarios/componentes.css";
+@import "./utilitarios/formulario.css";
+
+
+/* ? Home */
+@import "./home/introducao.css";
+@import "./home/tecnologias.css";
+@import "./home/parceiros.css";
+@import "./home/depoimento.css";
+
+/* ? Bicicletas */
+@import "./bicicletas/bicicletas-lista.css";
 @import "./bicicletas/bicicletas.css";
 
-/* ? Seguros-vantagens - Estilos do vantagens pagina seguros */
-@import "./seguros/vantagens.css";
+/* ? Bicicleta */
+@import "./bicicleta/bicicleta.css";
+@import "./bicicleta/seguro.css";
 
-/* ? Seguros-perguntas - Estilos do perguntas pagina seguros */
+/* ? Seguros */
+@import "./seguros/seguros.css";
+@import "./seguros/vantagens.css";
 @import "./seguros/perguntas.css";
 
-/* ? bicicleta-bicicleta - Estilos do bicicleta pagina bicicleta */
-@import "./bicicleta/bicicleta.css";
+/* ? Contato */
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
 
-/* ? seguro-seguro - Estilos do seguro pagina seguro */
-@import "./bicicleta/seguro.css";
+/* ? Termos */
+@import "./termos/termos.css";
