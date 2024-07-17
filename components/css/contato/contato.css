@@ -22,14 +22,15 @@
 .contato-dados {
 
     border-radius: 5px 0px 0px 5px;
-    background: var(--cor-12);
+    background: var(--cor-12) url("../../../assets/icons/decoradores/bottom-left-c.svg") no-repeat bottom 20px left 20px;
+
 
 }
 
 .contato-formulario {
 
     border-radius: 0px 5px 5px 0px;
-    background: var(--cor-0);
+    background: var(--cor-0) url("../../../assets/icons/decoradores/bottom-right-c.svg") no-repeat bottom 20px right 20px;
 
 }
 
@@ -115,6 +116,7 @@
     .contato-dados {
 
         border-radius: 5px 5px 0px 0px;
+        background: var(--cor-12);
 
     }
 

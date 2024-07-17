@@ -9,7 +9,7 @@
 .form label {
 
     display: block;
-    font: 600 1rem/1.5 'Poppins', sans-serif;
+    font: 400 1rem/1.5 'Poppins', sans-serif;
     margin-bottom: 4px;
 
 }
@@ -22,7 +22,8 @@
 
 .form input[type="text"],
 .form input[type="email"],
-.form textarea {
+.form textarea,
+.dropdown {
 
     font: 400 1rem/1.5 'Roboto', sans-serif;
     background: var(--cor-1);
@@ -37,7 +38,8 @@
 
 .form input[type="text"]:focus,
 .form input[type="email"]:focus,
-.form textarea:focus {
+.form textarea:focus 
+.form input#estado:focus .dropdown{
 
     outline: none;
     border-color: var(--cor-p1);

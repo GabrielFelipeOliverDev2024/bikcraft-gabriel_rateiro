@@ -19,6 +19,7 @@
 
     padding: 40px 40px 80px 80px;
     align-self: flex-end;
+    background: url("../../../assets/icons/decoradores/bottom-right-p.svg") no-repeat bottom 40px right 40px;
 
 }
 
@@ -54,6 +55,16 @@
 .depoimento p::after {
 
     content: "”";
+
+}
+
+@media screen and (min-width: 1200px) {
+
+    .depoimento img {
+
+        max-height: 520px;
+
+    }
 
 }
 

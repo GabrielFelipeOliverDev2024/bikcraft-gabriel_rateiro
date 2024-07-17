@@ -154,6 +154,12 @@
 
 }
 
+.titulo {
+
+    background: url("../../../assets/icons/decoradores/top-right-c.svg") no-repeat top right 20px;
+
+}
+
 .titulo p {
 
     margin-bottom: 4px;
